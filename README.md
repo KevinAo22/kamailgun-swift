@@ -1,6 +1,6 @@
 # Mailgun-In-Swift
 
-[![CocoaPods](https://img.shields.io/badge/pod-v1.0.0-blue.svg)](https://img.shields.io/badge/pod-v1.0.0-blue.svg)[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/KevinAo22/Mailgun-In-Swift/blob/master/LICENSE)[![Swift 4](https://img.shields.io/badge/LANGUAGE-Swift%204-orange.svg)](https://swift.org)
+[![CocoaPods](https://img.shields.io/badge/pod-v1.0.0-blue.svg)](https://img.shields.io/badge/pod-v1.0.0-blue.svg)  [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/KevinAo22/Mailgun-In-Swift/blob/master/LICENSE)  [![Swift 4](https://img.shields.io/badge/LANGUAGE-Swift%204-orange.svg)](https://swift.org)
 
 Mailgun-In-Swift provides simple alternative APIs when you need to send an email with your iOS app using Mailgun.
 
@@ -20,7 +20,7 @@ Get `Mailgun-In-Swift` on CocoaPods, just add `pod 'Mailgun-In-Swift'` to your P
 -----
 Usage is very simple
 
-```swift
+```Swift
 
 import Mailgun-In-Swift
 
