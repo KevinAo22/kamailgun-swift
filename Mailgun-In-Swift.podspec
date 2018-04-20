@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "Mailgun-In-Swift"
   s.version      = "1.0.1"
-  s.summary      = "Simple api for using Mailgun in Swift"
+  s.summary      = "Simple api for using Mailgun in Swift."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
